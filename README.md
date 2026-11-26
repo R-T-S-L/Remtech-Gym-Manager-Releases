@@ -2,7 +2,7 @@
 
 Installers for **Remtech Gym Manager**, gym management software for the front desk, memberships, billing, shop and door access.
 
-**[Download the latest version for Windows →](https://github.com/Gargars/Remtech-Gym-Manager-Releases/releases/latest)** (`Remtech-Gym-Manager-Setup-x.y.z.exe`)
+**[Download the latest version for Windows →](https://github.com/R-T-S-L/Remtech-Gym-Manager-Releases/releases/latest)** (`Remtech-Gym-Manager-Setup-x.y.z.exe`)
 
 Already installed? You don't need to come here: Remtech updates itself. New versions download in the background and install when Remtech restarts.
 
